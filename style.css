@@ -1,0 +1,31 @@
+body.light {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  body.dark {
+    background-color: #261d1d;
+    color: #ffffff;
+  }
+  
+  body.blue {
+    background-color: #4d6180;
+    color: #000080;
+  }
+  
+  ul.list-style-disc {
+    list-style-type: disc;
+  }
+  
+  ul.list-style-circle {
+    list-style-type: circle;
+  }
+  
+  ul.list-style-square {
+    list-style-type: square;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
